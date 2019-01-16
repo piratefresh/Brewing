@@ -1,0 +1,7 @@
+.Gallery {
+  width: 50vw;
+}
+.grid-sizer,
+.grid-item {
+  width: 33.333%;
+}
